@@ -1,0 +1,3 @@
+﻿  starydisplay.cpp
+D:\ゲームプログラミング\DxLib2DGame\Project\20240422_GameProject2\starydisplay.cpp(103,19): warning C4553: '==': 式の結果が使用されていません。'=' を意図していますか?
+  Project1.vcxproj -> D:\ゲームプログラミング\DxLib2DGame\Project\20240422_GameProject2\x64\Debug\Project1.exe
